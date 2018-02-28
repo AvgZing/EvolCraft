@@ -1,0 +1,2 @@
+# EvilCraft
+EvilCraft Realm Website
