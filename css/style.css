@@ -871,7 +871,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .sidebar ul li a {
   padding-left: 15px;
-  color: rgba(0, 0, 0, 0.5);
+  color: #FF142C;
 }
 .sidebar ul li a:hover {
   color: #FF142C;
@@ -1039,7 +1039,7 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 1;
   top: 0;
   width: 275px;
-  background: black;
+  background: #FF142C;
   padding: 30px;
 }
 @media screen and (max-width: 768px) {
