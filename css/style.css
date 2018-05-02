@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 40px 0;
   width: 100%;
   margin: 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 0, 0, 1);
   position: relative;
 }
 #fh5co-header:after {
@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   content: '';
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 0, 0, 1);
 }
 @media screen and (max-width: 768px) {
   #fh5co-header {
