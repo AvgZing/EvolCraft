@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control {
   box-shadow: none;
   background: transparent;
-  border: 2px solid rgba(0, 0, 0, 0.1);
+  border: 2px solid rgba(255, 0, 0, 1);
   height: 54px;
   font-size: 18px;
   font-weight: 300;
@@ -849,7 +849,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   width: 100%;
   padding-left: 2em;
-  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 1px solid rgba(255, 0, 0, 1);
 }
 @media screen and (max-width: 992px) {
   .sidebar {
